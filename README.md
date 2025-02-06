@@ -1,26 +1,24 @@
-Here’s the README formatted for GitHub:
 
 ```markdown
 # KerasTuner: Hyperparameter Tuning for Keras Models
 
 KerasTuner is an easy-to-use library for hyperparameter tuning with Keras. It allows you to automatically search for the best hyperparameters for your Keras model using various search algorithms.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Defining a Model](#defining-a-model)
-  - [Tuning the Model](#tuning-the-model)
-  - [Search Algorithms](#search-algorithms)
-- [Supported Hyperparameters](#supported-hyperparameters)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
+Table of Contents
+-Installation
+-Usage
+-Defining a Model
+-Tuning the Model
+-Search Algorithms
+-Supported Hyperparameters
+-Example
+
 
 ## Installation
 
 To install KerasTuner, simply run:
 
-```bash
+```bash```
 pip install keras-tuner
 ```
 
