@@ -140,20 +140,3 @@ tuner.search(X_train, y_train, epochs=10, validation_data=(X_val, y_val))
 # Get the best model
 best_model = tuner.get_best_models(num_models=1)[0]
 ```
-
-## Contributing
-
-We welcome contributions to KerasTuner! Please feel free to fork the repository and submit pull requests.
-
-- Fork the repo
-- Create a new branch (`git checkout -b feature-name`)
-- Commit your changes (`git commit -am 'Add feature'`)
-- Push to the branch (`git push origin feature-name`)
-- Create a new pull request
-
-## License
-
-KerasTuner is open-source and available under the [MIT License](LICENSE).
-```
-
-This is ready for a GitHub repository. Let me know if you'd like any further adjustments!
